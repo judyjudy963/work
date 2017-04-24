@@ -7,4 +7,3 @@ calculator.o:caculate.c
 
 clean:
 	rm main *.o
-        
